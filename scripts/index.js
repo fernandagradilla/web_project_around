@@ -11,6 +11,7 @@ const closePopupButton = document.querySelector(".popup__button-close");
 const closePopupAddButton = document.querySelector(".popup-add__button-close");
 const closePopupImageButton = document.querySelector(
   ".popup-image__button-close"
+ 
 );
 //Popups
 const popupElement = document.querySelector(".popup");
